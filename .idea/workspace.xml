@@ -85,7 +85,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="5" />
     <option name="width" value="1070" />
     <option name="height" value="1100" />
@@ -125,6 +125,8 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\MyProject\homework\day23" />
+      <recent name="D:\MyProject\homework\day23\src" />
       <recent name="D:\MyProject\homework\day21\src" />
       <recent name="D:\MyProject\homework\day18\src" />
     </key>

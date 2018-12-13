@@ -1,0 +1,28 @@
+﻿作业：
+1.select count(*) from teacher where TNAME like '李%';
+2.select count(*) from student where sex='男';
+   select count(*) from student where sex='女';
+3.select count(*) 张三 from student where SNAME='张三';
+4. select SNAME from student where BIRTHDAY like '1981%';
+5.select avg(SCORE),cid from sc group by cid having avg(SCORE)>60;
+6.
+7.select cid from sc group by cid having count(score)>2;
+8.select cid,max(score),min(score) from sc group by cid ;
+第二部分：
+1. select * from emp where 2018-year(hiredate)>=38;
+2.select * from emp where hiredate like '%-12-%';
+3.select * from emp where hiredate like '%-01-%';
+4. select * from emp where hiredate like '1980-12%'or hiredate like '1980-11%' or hiredate like '1980-10%'
+or hiredate like '1980-09%' or hiredate like '1980-08%'
+or hiredate like '1980-07%' or hiredate like '1980-06%';
+5.select * from emp where char_length(ename)=4;
+6.select min(sal),job from emp group by job;
+7.
+8. select deptno,max(sal) from emp group by deptno ;
+9.select deptno,job,max(sal) from emp group by deptno,job ;
+10. select deptno ,sum(sal),avg(sal) from emp group by deptno;
+11.select deptno,avg(sal) from emp group by deptno having deptno=10 or deptno=20;
+12.select deptno,avg(sal) from emp group by deptno having avg(sal)>2000;
+13. select job,count(*)人数 from emp where job='MANAGER';
+14. select * from emp order by sal desc limit 3;
+15.select * from emp order by sal desc limit 5,5;
