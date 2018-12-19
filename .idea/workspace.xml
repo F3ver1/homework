@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="10931c29-30f3-40ed-b112-56090cd48a17" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/day23/day23.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="10931c29-30f3-40ed-b112-56090cd48a17" name="Default" comment="day23提交">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/homework/v15/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/homework/v15/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/slnx.sqlite" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/slnx.sqlite" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -96,8 +96,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -109,7 +110,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -221,7 +221,8 @@
       <workItem from="1543374864799" duration="279000" />
       <workItem from="1543936568534" duration="565000" />
       <workItem from="1543982824952" duration="597000" />
-      <workItem from="1544676835327" duration="233000" />
+      <workItem from="1544676835327" duration="862000" />
+      <workItem from="1545185348849" duration="24000" />
     </task>
     <task id="LOCAL-00001" summary="网络爬虫提交">
       <created>1543329513716</created>
@@ -237,15 +238,21 @@
       <option name="project" value="LOCAL" />
       <updated>1543936792842</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="day23提交">
+      <created>1544677145240</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1544677145240</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4072000" />
+    <option name="totallyTimeSpent" value="4725000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
-    <editor active="true" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -260,7 +267,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26541555" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26876676" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -286,9 +293,44 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="网络爬虫提交" />
     <MESSAGE value="day21提交" />
-    <option name="LAST_COMMIT_MESSAGE" value="day21提交" />
+    <MESSAGE value="day23提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="day23提交" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/day18/src/DownloadDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="8" column="2" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day18/src/DesignPattern.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="768">
+          <caret line="32" column="19" selection-start-line="32" selection-start-column="19" selection-end-line="32" selection-end-column="19" />
+          <folding>
+            <element signature="e#156#157#0" expanded="true" />
+            <element signature="e#201#202#0" expanded="true" />
+            <element signature="e#313#314#0" expanded="true" />
+            <element signature="e#351#352#0" expanded="true" />
+            <element signature="e#378#379#0" expanded="true" />
+            <element signature="e#425#426#0" expanded="true" />
+            <element signature="e#452#453#0" expanded="true" />
+            <element signature="e#501#502#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="3" selection-start-column="3" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/day18/src/DownloadDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="48">
